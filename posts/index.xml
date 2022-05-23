@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Arts and Engineering</title>
+    <link>https://4njali.github.io/posts/</link>
+    <description>Recent content in Posts on Arts and Engineering</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 May 2022 12:07:33 -0400</lastBuildDate><atom:link href="https://4njali.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Art Gallery</title>
+      <link>https://4njali.github.io/posts/art-gallery/</link>
+      <pubDate>Mon, 23 May 2022 12:07:33 -0400</pubDate>
+      
+      <guid>https://4njali.github.io/posts/art-gallery/</guid>
+      <description>   Img 20220216 113518 (1)
+      Img 20220216 113518
+      Img 20220216 113542
+      Img 20220216 113548
+      Img 20220216 113552
+      Img 20220216 113556
+      Img 20220216 125011
+                             </description>
+    </item>
+    
+    <item>
+      <title>Real Time Finger Detection</title>
+      <link>https://4njali.github.io/posts/finger-detection-project/</link>
+      <pubDate>Sun, 22 May 2022 22:53:39 -0400</pubDate>
+      
+      <guid>https://4njali.github.io/posts/finger-detection-project/</guid>
+      <description>Introduction In this software project we use image processing techniques on a single area of a live video feed to identify the number of fingers on display. The main image processing technique used is identifying contours. A contour is created by joining all the continuous points of an image that have the same color. Contours can be used for various image processing programs like shape analysis, object detection or recognition. Image contouring is an important tool with uses in any field.</description>
+    </item>
+    
+    <item>
+      <title>Radio Controlled Rover Payload</title>
+      <link>https://4njali.github.io/posts/rover-project/</link>
+      <pubDate>Sat, 21 May 2022 22:52:29 -0400</pubDate>
+      
+      <guid>https://4njali.github.io/posts/rover-project/</guid>
+      <description>In this software project we use image processing techniques on a single area of a live video feed to identify the number of fingers on display. The main image processing technique used is identifying contours. A contour is created by joining all the continuous points of an image that have the same color. Contours can be used for various image processing programs like shape analysis, object detection or recognition.
+Image contouring is an important tool with uses in any field.</description>
+    </item>
+    
+  </channel>
+</rss>
